@@ -1,1 +1,1 @@
-#qdit
+# ditq
